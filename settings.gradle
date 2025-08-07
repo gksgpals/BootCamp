@@ -1,0 +1,3 @@
+rootProject.name = 'BootCamp'
+include 'Backend'
+include 'Frontend'

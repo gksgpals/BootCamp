@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f3c7a0dd-55c0-4e55-957d-9dee47a46d4b" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/../hello-spring/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring/sql/ddl.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring/src/main/java/hello/hello_spring/HelloSpringApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring/src/main/java/hello/hello_spring/SpringConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring/src/main/java/hello/hello_spring/aop/TimeTraceAop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring/src/main/java/hello/hello_spring/controller/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring/src/main/java/hello/hello_spring/controller/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring/src/main/java/hello/hello_spring/controller/MemberController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring/src/main/java/hello/hello_spring/controller/MemberForm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring/src/main/java/hello/hello_spring/domain/Member.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring/src/main/java/hello/hello_spring/repository/JdbcMemberRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring/src/main/java/hello/hello_spring/repository/JdbcTemplateMemberRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring/src/main/java/hello/hello_spring/repository/JpaMemberRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring/src/main/java/hello/hello_spring/repository/MemberRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring/src/main/java/hello/hello_spring/repository/MemoryMemberRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring/src/main/java/hello/hello_spring/repository/SpringDataJpaMemberRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring/src/main/java/hello/hello_spring/service/MemberService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring/src/main/resources/static/hello-static.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring/src/main/resources/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring/src/main/resources/templates/hello-template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring/src/main/resources/templates/hello.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring/src/main/resources/templates/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring/src/main/resources/templates/members/createMemberForm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring/src/main/resources/templates/members/memberList.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring/src/test/java/hello/hello_spring/HelloSpringApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring/src/test/java/hello/hello_spring/repository/MemoryMemberRepositoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring/src/test/java/hello/hello_spring/service/MemberServiceIntegrationTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="posting" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;gksgpals&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/gksgpals/BootCamp.git&quot;,
+    &quot;accountId&quot;: &quot;ca0d37fd-1116-4695-8f09-c517d20f8226&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="30uORu5ZLTA47BERL4IC1RYZhHc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Gradle.posting 빌드.executor": "Run",
+    "Gradle.소스 다운로드.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.PostingApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/hanhyemin/Desktop/Wink_BootCamp/BootCamp/posting",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="posting.example.posting.service" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="PostingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="posting.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="posting.example.posting.PostingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.27812.49" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.27812.49" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="f3c7a0dd-55c0-4e55-957d-9dee47a46d4b" name="변경" comment="" />
+      <created>1754473987326</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754473987326</updated>
+      <workItem from="1754473988572" duration="13878000" />
+      <workItem from="1754494636836" duration="8000" />
+      <workItem from="1754545081167" duration="13562000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

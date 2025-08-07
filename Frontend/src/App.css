@@ -1,0 +1,27 @@
+.app {
+  background-color: #fafafa;
+  font-family: 'Segoe UI', sans-serif;
+  min-height: 100vh;
+}
+
+.app-header {
+  background-color: white;
+  padding: 20px;
+  font-size: 28px;
+  font-weight: bold;
+  border-bottom: 1px solid #dbdbdb;
+  text-align: center;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+.feed {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 0 20px;
+}
+
+.user-bar {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
