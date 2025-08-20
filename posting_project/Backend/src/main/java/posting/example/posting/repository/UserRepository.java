@@ -1,0 +1,10 @@
+package posting.example.posting.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+import posting.example.posting.domain.User;
+
+import java.util.Optional;
+
+public interface UserRepository extends JpaRepository<User, Long> {
+    Optional<User> findByUsername(String username);
+}

@@ -8,3 +8,11 @@ build/
 .DS_Store
 *.log
 *.class
+
+# deps & build outputs
+node_modules/
+build/
+dist/
+*.log
+.idea/
+.DS_Store
